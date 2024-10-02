@@ -1,5 +1,6 @@
 Data Science and Machine Learning Notebook
 Welcome to the Data Science and Machine Learning Notebook repository! This repository contains a comprehensive collection of essential concepts and techniques in data science and machine learning, designed to help you understand and apply these methods effectively.
+<<<<<<< HEAD
 
 📚 Contents
 1. Mean, Median, and Mode
