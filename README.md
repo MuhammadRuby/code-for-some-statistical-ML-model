@@ -23,11 +23,11 @@ Interactive Notebooks: Jupyter notebooks to run and modify code.
 🚀 Getting Started
 To get started with this repository, clone it to your local machine using the following command:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/MuhammadRuby/code-for-some-statistical-ML-model]
 
 Navigate to the repository directory:
 
-cd your-repo-name
+cd code-for-some-statistical-ML-model
 
 Open the Jupyter notebook:
 
